@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SeleniumDemoSuite" duration-ms="28" started-at="2021-06-23T06:41:24Z" finished-at="2021-06-23T06:41:24Z">
+    <groups>
+    </groups>
+    <test name="SeleniumDemoTest" duration-ms="28" started-at="2021-06-23T06:41:24Z" finished-at="2021-06-23T06:41:24Z">
+    </test> <!-- SeleniumDemoTest -->
+  </suite> <!-- SeleniumDemoSuite -->
+</testng-results>
