@@ -6,5 +6,9 @@ public class GitDemo {
 	System.out.println("First addition");
 	System.out.println("Second addition");
 	}
+	
+	public void method3(){
+		System.out.println("somebody else has committed this");
+	}
 
 }
