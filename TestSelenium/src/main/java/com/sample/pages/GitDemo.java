@@ -11,6 +11,7 @@ public class GitDemo {
 	public static void main(String[] args) {
 	System.out.println("First addition");
 	System.out.println("Second addition");
+	System.out.println("Third addition");
 	}
 	
 	public void method3(){
